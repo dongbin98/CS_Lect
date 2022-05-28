@@ -1,0 +1,7 @@
+C:\Users\profe\source\repos\이벤트처리\bin\Debug\이벤트처리.exe.config
+C:\Users\profe\source\repos\이벤트처리\bin\Debug\이벤트처리.exe
+C:\Users\profe\source\repos\이벤트처리\bin\Debug\이벤트처리.pdb
+C:\Users\profe\source\repos\이벤트처리\obj\Debug\이벤트처리.csproj.AssemblyReference.cache
+C:\Users\profe\source\repos\이벤트처리\obj\Debug\이벤트처리.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\이벤트처리\obj\Debug\이벤트처리.exe
+C:\Users\profe\source\repos\이벤트처리\obj\Debug\이벤트처리.pdb

@@ -1,0 +1,6 @@
+C:\Users\profe\source\repos\원리합계\bin\Debug\원리합계.exe.config
+C:\Users\profe\source\repos\원리합계\bin\Debug\원리합계.exe
+C:\Users\profe\source\repos\원리합계\bin\Debug\원리합계.pdb
+C:\Users\profe\source\repos\원리합계\obj\Debug\원리합계.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\원리합계\obj\Debug\원리합계.exe
+C:\Users\profe\source\repos\원리합계\obj\Debug\원리합계.pdb

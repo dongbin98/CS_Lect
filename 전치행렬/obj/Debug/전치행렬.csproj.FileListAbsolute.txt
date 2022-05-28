@@ -1,0 +1,7 @@
+C:\Users\profe\source\repos\전치행렬\bin\Debug\전치행렬.exe.config
+C:\Users\profe\source\repos\전치행렬\bin\Debug\전치행렬.exe
+C:\Users\profe\source\repos\전치행렬\bin\Debug\전치행렬.pdb
+C:\Users\profe\source\repos\전치행렬\obj\Debug\전치행렬.csproj.AssemblyReference.cache
+C:\Users\profe\source\repos\전치행렬\obj\Debug\전치행렬.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\전치행렬\obj\Debug\전치행렬.exe
+C:\Users\profe\source\repos\전치행렬\obj\Debug\전치행렬.pdb

@@ -1,0 +1,7 @@
+C:\Users\profe\source\repos\CircularQueue\bin\Debug\CircularQueue.exe.config
+C:\Users\profe\source\repos\CircularQueue\bin\Debug\CircularQueue.exe
+C:\Users\profe\source\repos\CircularQueue\bin\Debug\CircularQueue.pdb
+C:\Users\profe\source\repos\CircularQueue\obj\Debug\CircularQueue.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\CircularQueue\obj\Debug\CircularQueue.exe
+C:\Users\profe\source\repos\CircularQueue\obj\Debug\CircularQueue.pdb
+C:\Users\profe\source\repos\CircularQueue\obj\Debug\CircularQueue.csproj.AssemblyReference.cache

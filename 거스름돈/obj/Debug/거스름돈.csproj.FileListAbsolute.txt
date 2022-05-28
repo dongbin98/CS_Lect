@@ -1,0 +1,7 @@
+C:\Users\profe\source\repos\거스름돈\bin\Debug\거스름돈.exe.config
+C:\Users\profe\source\repos\거스름돈\bin\Debug\거스름돈.exe
+C:\Users\profe\source\repos\거스름돈\bin\Debug\거스름돈.pdb
+C:\Users\profe\source\repos\거스름돈\obj\Debug\거스름돈.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\거스름돈\obj\Debug\거스름돈.exe
+C:\Users\profe\source\repos\거스름돈\obj\Debug\거스름돈.pdb
+C:\Users\profe\source\repos\거스름돈\obj\Debug\거스름돈.csproj.AssemblyReference.cache

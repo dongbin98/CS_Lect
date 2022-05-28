@@ -1,0 +1,7 @@
+C:\Users\profe\source\repos\여러수\bin\Debug\여러수.exe.config
+C:\Users\profe\source\repos\여러수\bin\Debug\여러수.exe
+C:\Users\profe\source\repos\여러수\bin\Debug\여러수.pdb
+C:\Users\profe\source\repos\여러수\obj\Debug\여러수.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\여러수\obj\Debug\여러수.exe
+C:\Users\profe\source\repos\여러수\obj\Debug\여러수.pdb
+C:\Users\profe\source\repos\여러수\obj\Debug\여러수.csproj.AssemblyReference.cache

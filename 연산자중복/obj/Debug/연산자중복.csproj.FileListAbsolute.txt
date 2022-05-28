@@ -1,0 +1,7 @@
+C:\Users\profe\source\repos\연산자중복\bin\Debug\연산자중복.exe.config
+C:\Users\profe\source\repos\연산자중복\bin\Debug\연산자중복.exe
+C:\Users\profe\source\repos\연산자중복\bin\Debug\연산자중복.pdb
+C:\Users\profe\source\repos\연산자중복\obj\Debug\연산자중복.csproj.AssemblyReference.cache
+C:\Users\profe\source\repos\연산자중복\obj\Debug\연산자중복.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\연산자중복\obj\Debug\연산자중복.exe
+C:\Users\profe\source\repos\연산자중복\obj\Debug\연산자중복.pdb

@@ -1,0 +1,7 @@
+C:\Users\profe\source\repos\삼각형넓이\bin\Debug\삼각형넓이.exe.config
+C:\Users\profe\source\repos\삼각형넓이\bin\Debug\삼각형넓이.exe
+C:\Users\profe\source\repos\삼각형넓이\bin\Debug\삼각형넓이.pdb
+C:\Users\profe\source\repos\삼각형넓이\obj\Debug\삼각형넓이.csproj.AssemblyReference.cache
+C:\Users\profe\source\repos\삼각형넓이\obj\Debug\삼각형넓이.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\삼각형넓이\obj\Debug\삼각형넓이.exe
+C:\Users\profe\source\repos\삼각형넓이\obj\Debug\삼각형넓이.pdb

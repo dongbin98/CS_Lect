@@ -1,0 +1,7 @@
+C:\Users\profe\source\repos\Dining_Philosophe\bin\Debug\Dining_Philosophe.exe.config
+C:\Users\profe\source\repos\Dining_Philosophe\bin\Debug\Dining_Philosophe.exe
+C:\Users\profe\source\repos\Dining_Philosophe\bin\Debug\Dining_Philosophe.pdb
+C:\Users\profe\source\repos\Dining_Philosophe\obj\Debug\Dining_Philosophe.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\Dining_Philosophe\obj\Debug\Dining_Philosophe.exe
+C:\Users\profe\source\repos\Dining_Philosophe\obj\Debug\Dining_Philosophe.pdb
+C:\Users\profe\source\repos\Dining_Philosophe\obj\Debug\Dining_Philosophe.csproj.AssemblyReference.cache

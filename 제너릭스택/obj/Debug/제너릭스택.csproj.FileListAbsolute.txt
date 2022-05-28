@@ -1,0 +1,7 @@
+C:\Users\profe\source\repos\제너릭스택\bin\Debug\제너릭스택.exe.config
+C:\Users\profe\source\repos\제너릭스택\bin\Debug\제너릭스택.exe
+C:\Users\profe\source\repos\제너릭스택\bin\Debug\제너릭스택.pdb
+C:\Users\profe\source\repos\제너릭스택\obj\Debug\제너릭스택.csproj.AssemblyReference.cache
+C:\Users\profe\source\repos\제너릭스택\obj\Debug\제너릭스택.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\제너릭스택\obj\Debug\제너릭스택.exe
+C:\Users\profe\source\repos\제너릭스택\obj\Debug\제너릭스택.pdb

@@ -1,0 +1,6 @@
+C:\Users\profe\source\repos\다이아예제\bin\Debug\다이아예제.exe.config
+C:\Users\profe\source\repos\다이아예제\bin\Debug\다이아예제.exe
+C:\Users\profe\source\repos\다이아예제\bin\Debug\다이아예제.pdb
+C:\Users\profe\source\repos\다이아예제\obj\Debug\다이아예제.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\다이아예제\obj\Debug\다이아예제.exe
+C:\Users\profe\source\repos\다이아예제\obj\Debug\다이아예제.pdb

@@ -1,0 +1,6 @@
+C:\Users\profe\source\repos\윤년\bin\Debug\윤년.exe.config
+C:\Users\profe\source\repos\윤년\bin\Debug\윤년.exe
+C:\Users\profe\source\repos\윤년\bin\Debug\윤년.pdb
+C:\Users\profe\source\repos\윤년\obj\Debug\윤년.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\윤년\obj\Debug\윤년.exe
+C:\Users\profe\source\repos\윤년\obj\Debug\윤년.pdb

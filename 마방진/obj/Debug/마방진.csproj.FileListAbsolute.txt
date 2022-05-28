@@ -1,0 +1,6 @@
+C:\Users\profe\source\repos\마방진\obj\Debug\마방진.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\마방진\bin\Debug\마방진.exe.config
+C:\Users\profe\source\repos\마방진\bin\Debug\마방진.exe
+C:\Users\profe\source\repos\마방진\bin\Debug\마방진.pdb
+C:\Users\profe\source\repos\마방진\obj\Debug\마방진.exe
+C:\Users\profe\source\repos\마방진\obj\Debug\마방진.pdb
